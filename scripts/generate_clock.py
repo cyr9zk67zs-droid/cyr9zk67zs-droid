@@ -1,0 +1,41 @@
+from datetime import datetime, timezone
+from pathlib import Path
+
+now = datetime.now(timezone.utc)
+
+svg = f"""<svg xmlns="http://www.w3.org/2000/svg"
+width="600" height="145" viewBox="0 0 600 145">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#080B1B"/>
+    <stop offset="100%" stop-color="#24104B"/>
+  </linearGradient>
+  <filter id="glow">
+    <feGaussianBlur stdDeviation="5" result="blur"/>
+    <feMerge>
+      <feMergeNode in="blur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+</defs>
+<rect width="600" height="145" rx="18" fill="url(#bg)"/>
+<rect x="2" y="2" width="596" height="141" rx="16"
+fill="none" stroke="#702CF5" stroke-width="2"/>
+<text x="300" y="35" fill="#A78BFA"
+font-family="monospace" font-size="13"
+text-anchor="middle" letter-spacing="4">SYSTEM CLOCK // UTC</text>
+<text x="300" y="100" fill="#00F5FF"
+font-family="monospace" font-size="53"
+font-weight="bold" text-anchor="middle"
+filter="url(#glow)">{now.strftime("%H:%M:%S")}</text>
+<text x="300" y="125" fill="#A78BFA"
+font-family="monospace" font-size="11"
+text-anchor="middle">{now.strftime("%d.%m.%Y")}</text>
+</svg>
+"""
+
+output = Path("dist")
+output.mkdir(exist_ok=True)
+(output / "clock.svg").write_text(svg, encoding="utf-8")
+
+print("Digital clock generated:", now.isoformat())

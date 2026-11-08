@@ -1,16 +1,77 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**cyr9zk67zs-droid/cyr9zk67zs-droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> SYSTEM ONLINE_
 
-Here are some ideas to get you started:
+⚡ Welcome to my digital space
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Learning. Building. Experimenting.
+
+
+
+</div>
+
+👾 ABOUT ME
+
+> whoami
+
+USER: cyr9zk67zs-droid
+ROLE: Beginner Developer
+STATUS: Learning & Building
+MISSION: Turning ideas into reality
+LOCATION: Digital World
+
+🚀 Exploring the world of programming
+
+💻 Building personal projects
+
+🧠 Learning new technologies
+
+⚡ Interested in AI and modern development
+
+🎯 Improving my skills one project at a time
+
+🛠️ TECHNOLOGIES
+
+<div align="center">
+
+
+
+</div>
+
+📊 GITHUB STATISTICS
+
+<div align="center">
+
+
+
+
+
+
+
+</div>
+
+🐍 CONTRIBUTION SNAKE
+
+<div align="center">
+
+
+
+</div>
+
+🌌 CURRENT MISSION
+
+[████████░░] Learning
+[██████░░░░] Building projects
+[████░░░░░░] Exploring technologies
+
+NEXT LEVEL: FULL-STACK DEVELOPER
+
+<div align="center">
+
+> END OF TRANSMISSION_
+
+Thanks for visiting my profile!
+
+
+
+</div>

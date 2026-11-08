@@ -32,10 +32,10 @@ Currently exploring technologies and developing new skills.
 
 <div align="center">
 
-<a href="https://premiya-x5.netlify.app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=cyr9zk67zs-droid&repo=cyr9zk67zs-droid&theme=tokyonight&hide_border=true" />
-</a>
-
+<div align="center">
+  <a href="https://premiya-x5.netlify.app">
+    <img src="https://img.shields.io/badge/OPEN-X5_PREMIUM_APP-702CF5?style=for-the-badge&logo=github&logoColor=white">
+  </a>
 </div>
 
 🚀 Featured project

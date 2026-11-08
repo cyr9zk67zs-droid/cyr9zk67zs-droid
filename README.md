@@ -90,7 +90,7 @@ OPEN PROJECT ↗
 
 <!-- Optional: replace this section with your Spotify widget after connecting Spotify -->
 
-🎧 ![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31hbil73lbwxpdsqo6srycxwbqqy&count=1&width=300&radius=18) — OPTIONAL
+🎧 ![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31hbil73lbwxpdsqo6srycxwbqqy&count=1&width=300&radius=18) 
 
 </div>
 
